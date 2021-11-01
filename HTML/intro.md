@@ -1,0 +1,7 @@
+# Introduction to HTML and CSS
+
+HTML stands for Hyper Text Markup Language. It is ubiquitously used to create and design interactive webpages(Pages that can be viewed on the internet). Text, audio, video, Checkboxes, Dropdowns etc. can be created using a html program.
+
+CSS stands for Cascading Style Sheets. It is used to animate webpages i.e. add color, transitions ,background images etc. can be included in the webpage.
+
+A html program is coded on a text editor and is saved with the extension .html .It consists of 2 main components namely head and body. Head is the part of the program which gives information about the page(like title, font, character set that is being used to display the text in body ) whereas the body contains data that gets displayed in the page(headings, paragraphs, images, audio, video).
