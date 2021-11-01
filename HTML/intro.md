@@ -8,7 +8,7 @@ A html program is coded on a text editor and is saved with the extension .html .
 
 It can be said that the code for a html program is like a sandwich. Every opening tag must have a closing tag. The closing tag differs from and opening tag by a mere '/'. We can have the data/information to be displayed in between the opening and closing tags. Sometimes, values may be assigned to the code. These values are called as attributes. For example,
 
-   <a href="name_of_the_page.html">click here</a>
+<a href="name_of_the_page.html">click here</a>
 
 Here, name_of_the_page(user defined) is an attribute that is assigned to the anchor(a).
 
