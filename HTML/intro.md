@@ -23,6 +23,7 @@ Headings of different sizes ranging from size 1 to size 6 can be added onto the 
     
 
 To add a paragraph, the code is as follows:
+
     <p>This is a paragraph. It contains two sentences.</p>
 
 
