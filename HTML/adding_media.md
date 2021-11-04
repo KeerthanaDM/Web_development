@@ -1,6 +1,6 @@
-## Adding media to a html file
+# Adding media to a html file
 
-# 1)Adding an image :
+## 1)Adding an image :
 
 An image can be added to a html file by using the following syntax:
 
@@ -14,7 +14,7 @@ Address of the file can be obtained by right clicking on the file and selecting 
 In the above syntax, "img src" tells that an image is being added from the particular source i.e. address_of_the_image and is of the type jpg. In case the browser doesn't support an image file(browsers meant only for reading), we give a description about the image for user convenience. This is done by assigning the description to "alt" as an attribute.
 
 
-# 2)Adding an audio clip :
+## 2)Adding an audio clip :
 
 An audio file is usually saved with the extension .mp3 but all browsers do not support this format. Hence it can be saved with the extension .ogg (a format used to store compressed audio files). Audio can be added to a html file as follows:
 
@@ -26,7 +26,7 @@ An audio file is usually saved with the extension .mp3 but all browsers do not s
 
 Controls like play, pause, playback speed, volume are enabled using the keyword "controls" in the "audio " tag. Source of the audio file is then provided (simiar to adding image). It is done in 2 ways in the above block of code. Also, a link is created in case both the formats are not supported by the web browsers through which the audio can be accessed. Even though the same audio file is provided in 3 ways, it will not be displayed thrice. Once the format that is supported by the web browser is encountered in the code, the others(formats) will not be executed.
 
-# 3)Adding a video clip:
+## 3)Adding a video clip:
 
 It is hard to add a video clip onto a webpage as permission from 3rd party services is required to add a video downloaded from a random website. Therefore, html is not a great option to add a video clip. Instead, javascript can be used. It can be done with a html program as follows:
 
@@ -46,7 +46,7 @@ Complications in adding a video clip:
 
 Resolving these issues is out of scope of simple html. Hence, it is ignored for now.
 
-# 4)Adding vector graphics
+## 4)Adding vector graphics
 
 Vector graphics is an image that is not created out of pixels but out of random shapes overlapping each other. Therefore, there is no loss of quality when we zoom into the picture. But still there are a few disadvantages of svg over a normal image.
 We can use adobe illustrator to create vector graphics. It can also be created for free on a software called " figma ".
