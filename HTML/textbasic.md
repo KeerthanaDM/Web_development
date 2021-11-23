@@ -72,7 +72,7 @@ Program given below shows the types of list that can be created using html.
  
 # 3)Bold and Italic:
   
-i) Bold words: <b> or <strong> tags can be used. 'Strong' is preferred as it will be helpful for further developments of the webpage using CSS.
+i) Bold words: 'b' or 'strong' tags can be used. 'Strong' is preferred as it will be helpful for further developments of the webpage using CSS.
  'b' is only used for presentational purposes whereas 'strong' highlights the additional importance given to the strengthened text in the webpage.
 
 ii) Italic words:'i', <def> or 'em' tags can be used. 'i' tag is not very preferred as it only gives presidential preference of the word rather than signifying importance. Therefore 'em' tag is used for italic words.
