@@ -25,11 +25,11 @@ Texts include headings, Lists, Attributes like Bold and Italic text.
     
   #  2) Lists:
    There are three types of lists that can be created in html namely
-   i) Unordered list: tag is <ul>
-   ii) Ordered list: tag is <ol>
-   iii) Description list : tag is <dl>
-Each list item is specified with the help of the tag <li> in ordered and unordered lists 
-Components of the descriptive list are <dt> i.e. description term and <dd> i.e. description of the description term.
+   i) Unordered list: tag is 'ul'
+   ii) Ordered list: tag is 'ol'
+   iii) Description list : tag is 'dl'
+Each list item is specified with the help of the tag  'li' in ordered and unordered lists 
+Components of the descriptive list are 'dt' i.e. description term and 'dd' i.e. description of the description term.
 Within a descriptive list, a description term and a description are paired with each other.
 Program given below shows the types of list that can be created using html.
   
@@ -75,8 +75,8 @@ Program given below shows the types of list that can be created using html.
 i) Bold words: <b> or <strong> tags can be used. 'Strong' is preferred as it will be helpful for further developments of the webpage using CSS.
  'b' is only used for presentational purposes whereas 'strong' highlights the additional importance given to the strengthened text in the webpage.
 
-ii) Italic words: <i>, <def> or <em> tags can be used. 'i' tag is not very preferred as it only gives presidential preference of the word rather than signifying importance. Therefore <em> tag is used for italic words.
-<def> stands for definition which is also represented in italic style.
+ii) Italic words:'i', <def> or 'em' tags can be used. 'i' tag is not very preferred as it only gives presidential preference of the word rather than signifying importance. Therefore 'em' tag is used for italic words.
+'def' stands for definition which is also represented in italic style.
 Also, a class can be created in the 'i' tag and an attribute can be assigned to it. This method is feasible as well and behaves similar to 'em'.
       
 
