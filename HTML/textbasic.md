@@ -2,7 +2,7 @@ Texts include headings, Lists, Attributes like Bold and Italic text.
 
 # 1)Headings:
  There are 6 levels of headings ranging from 1 to 6 with 1 being the largest and 6 being the smallest.
-    All these headings appear in bold.
+ All these headings appear in bold.
 
 
     <!DOCTYPE html>
@@ -72,12 +72,12 @@ Program given below shows the types of list that can be created using html.
  
 # 3)Bold and Italic:
   
-    i) Bold words: <b> or <strong> tags can be used. 'Strong' is preferred as it will be helpful for further developments of the webpage using CSS.
-    'b' is only used for presentational purposes whereas 'strong' highlights the additional importance given to the strengthened text in the webpage.
+i) Bold words: <b> or <strong> tags can be used. 'Strong' is preferred as it will be helpful for further developments of the webpage using CSS.
+ 'b' is only used for presentational purposes whereas 'strong' highlights the additional importance given to the strengthened text in the webpage.
 
-    ii) Italic words: <i>, <def> or <em> tags can be used. 'i' tag is not very preferred as it only gives presidential preference of the word rather than signifying importance. Therefore <em> tag is used for italic words.
-    <def> stands for definition which is also represented in italic style.
-    Also, a class can be created in the 'i' tag and an attribute can be assigned to it. This method is feasible as well and behaves similar to 'em'.
+ii) Italic words: <i>, <def> or <em> tags can be used. 'i' tag is not very preferred as it only gives presidential preference of the word rather than signifying importance. Therefore <em> tag is used for italic words.
+<def> stands for definition which is also represented in italic style.
+Also, a class can be created in the 'i' tag and an attribute can be assigned to it. This method is feasible as well and behaves similar to 'em'.
       
 
         <!DOCTYPE html>>
