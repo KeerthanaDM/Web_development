@@ -96,3 +96,31 @@ Also, a class can be created in the 'i' tag and an attribute can be assigned to 
                 <p>Paragraph in<strong><em> Bold and Italic :)</em></strong></p>
             </body>
         </html>
+ 
+ 
+   4)Special characters: Symbols such as &,'," are generally used in the syntax of html code. These symbols cannot be printed directly into a webpage. Thus, the following program maybe followed to print these special characters.
+
+  
+      <!DOCTYPE html>
+    <html>
+       <head>
+           <meta charset="utf-8">
+           <title>
+               Representation of special characters:
+           </title>
+       </head>
+       <body>
+           <ul>
+               <li>right single quote: &rsquo; </li>
+               <li>left single quote: &lsquo; </li>
+               <li>right double quote: &rdquo; </li>
+               <li>left double quote: &ldquo; </li>
+               <li>ampersand: &amp; </li>
+               <li>greater than: &gt; </li>
+               <li>less than: &lt; </li>
+               <li>copyright: &copy; </li>
+               <li>registered: &reg; </li>
+               <li>trademark: &trade; </li>
+           </ul>
+       </body>
+    </html>
