@@ -98,7 +98,8 @@ Also, a class can be created in the 'i' tag and an attribute can be assigned to 
         </html>
  
  
-   4)Special characters: Symbols such as &,'," are generally used in the syntax of html code. These symbols cannot be printed directly into a webpage. Thus, the following program maybe followed to print these special characters.
+  # 4)Special characters: 
+ Symbols such as &,'," are generally used in the syntax of html code. These symbols cannot be printed directly into a webpage. Thus, the following program maybe followed to print these special characters.
 
   
       <!DOCTYPE html>
