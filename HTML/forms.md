@@ -38,7 +38,9 @@ Syntax to enter multiple lines of text:
 
 -->Types of options:
 1)Dropdown: These are used when there are multiple options and one of them has to be selected.
+
 2)Radio inputs: Used when only 1 of the options has to be selected(when less number of options are available)
+
 3)Checkboxes: Used when multiple options have to be selected.
 
     <!DOCTYPE html>
