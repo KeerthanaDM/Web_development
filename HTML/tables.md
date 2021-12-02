@@ -2,12 +2,19 @@
 
 A table is created to store a set of related information for easy utilization.
 Tags used for the creation of a table are
+
 'table'- to create a table.
+
 'thead'- to write the contents of a table header
+
 'tbody'- to create individual rows and columns of a table
+
 'th'-tag used to define the table header
+
 'tr'- to define the individual table rows
+
 'td'-used to define the table data
+
 'tfoot'- to represent the footer of the table or the last row of the table
 
 Preferably table footer has to be inserted before the table body
